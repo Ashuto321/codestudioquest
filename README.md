@@ -1,6 +1,7 @@
 📘 CodeStudioQuest
 
 CodeStudioQuest is a personal project where I document my journey of solving coding problems on CodeStudio.
+
 This repository contains my solutions, explanations, and questions that arise while solving various coding challenges.
 
 🚀 Purpose
